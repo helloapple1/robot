@@ -46,7 +46,7 @@ end
 config.adapters.slack.token=ENV.fetch('SLACK_TOKEN','')
 
 
-config.robot.adapter = :slack
-config.adapters.slack.token = "xoxb-1447072035412-1434198094534-1490xwWbyJA89hOm0AA9j9wt"
+#config.robot.adapter = :slack
+#config.adapters.slack.token = "xoxb-1447072035412-1434198094534-1490xwWbyJA89hOm0AA9j9wt"
 #config.adapters.slack.token=ENV.fetch('xoxb-1447072035412-1434198094534-q9uq1SZko5yqBRGzhdTEYyh0','')
 end
